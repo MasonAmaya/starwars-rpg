@@ -1,0 +1,97 @@
+
+h1 {
+	background-color:black;
+	color: #FFFF00;
+}
+
+
+
+.text{ 
+	background:black;
+    color:yellow;
+    text-align: center;
+    padding-top: 10%;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size:70pt;
+
+ }
+ .text2{
+     font-family: Impact, Charcoal, sans-serif;
+     color:#6FF00D;
+ }
+
+
+
+ .marquee{
+    color:yellow;
+ }
+
+ .col-lg-12{
+    float:center;
+
+ }
+
+ body {
+    background: url(https://lumiere-a.akamaihd.net/v1/images/Death-Star-II_b5760154.jpeg?region=0%2C68%2C2160%2C1080) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;  
+}
+
+.jumbotron {
+    padding: 0.5em 0.6em;
+    margin: .50em 0.0em .50em 0.0em;
+    opacity: 0.7;
+
+}
+
+.jumbotron h1 {
+    font-size: 3em;
+    color: yellow;
+    background-color: black
+}
+
+.jumbotron h2 {
+    font-size: 2em;
+    background-color:black;
+}
+
+.character-image {
+    display: inline-block;
+    height: 200px;
+    padding: 0px 35px 0px 35px;
+    margin: 0px 2px 0px 2px;
+    
+    
+}
+
+.character-image p {
+    text-align: center;
+    margin: 0px 2px 0px 2px;
+    color:white;
+}
+h2{
+    color:green;
+   
+}
+
+#chosen-character h2{
+    color:yellow;
+}
+
+#enemies-available h2{
+    color:yellow;
+}
+#fight-section h2{
+    color:yellow;
+}
+
+#defender-section h2{
+    color:yellow;
+}
+
+#message-section h2{
+    color:yellow;
+}
+
